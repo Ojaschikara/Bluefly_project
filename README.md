@@ -18,3 +18,10 @@ HTML5, CSS3: For building the structure and styling of the website.
 JavaScript: For client-side interactivity and dynamic behavior.
 
 
+![Screenshot (195)](https://github.com/Ojaschikara/Bluefly_project/assets/148073482/d6b2cc6c-298d-4be1-82a7-bdcb8b6287f9)
+
+
+![Screenshot (196)](https://github.com/Ojaschikara/Bluefly_project/assets/148073482/c31b299d-cf67-4c5b-bc5e-c2bbfd37ac7e)
+
+
+![Screenshot (197)](https://github.com/Ojaschikara/Bluefly_project/assets/148073482/84093f6b-2619-432a-abca-a76eca005339)
